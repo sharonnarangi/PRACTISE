@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: whitesmoke;
+}
+.header{
+    background: rgb(211, 48, 170);
+    height: 100px;
+    width: auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.list{
+    display: flex;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    justify-items: center;
+    gap: 50px;
+
+}
+a{
+    color: white;
+    text-decoration: white;
+}
+a:hover{
+    color: tomato;
+    transition: 4s;
+}
