@@ -37,3 +37,10 @@ a:hover{
     color: tomato;
     transition: 4s;
 }
+
+.Content{
+    background: url("https://www.istockphoto.com/photo/build-your-brand-symbol-businessman-turns-wooden-cubes-and-changes-the-word-build-to-gm1348247165-425511089?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbrand-building&utm_medium=affiliate&utm_source=unsplash&utm_term=brand+building%3A%3A%3A");
+    height: 500px;
+    width: 100px;
+    background-repeat: no-repeat;
+}
